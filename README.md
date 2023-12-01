@@ -6,3 +6,5 @@
     3.1 Cumulative Layout Shift 
 4. Creating Layouts and Pages
 5. Navigations Between Pages
+6. Setting up the DataBase. ==> 🔴got error ==> next.js community support ==> 🟢issue solved.   
+7. 
